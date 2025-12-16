@@ -17,7 +17,7 @@ Os principais aprendizados incluíram:
 * **Injeção de Dependência:** Solução de diversos erros de `UnsatisfiedDependencyException` e domínio sobre a criação de Beans personalizados (`Scanner`).
 * **Desenvolvimento CLI (Console):** Implementação de um menu interativo com `CommandLineRunner` para simular as interações do usuário.
 
-Vale ressaltar que a complexidade de resolver problemas específicos de dependência e *parsing* foi gerenciada com o auxílio do **Gemini do Google**, que atuou como um mentor técnico, fornecendo *insights* precisos sobre *stack traces* e sugerindo as melhores práticas de código, acelerando significativamente o processo de desenvolvimento e *debugging*.
+Vale ressaltar que como ainda estou iniciando tive muita ajuda para resolver problemas e felizmente tive o auxílio do **Gemini do Google**, que atuou como um mentor técnico, fornecendo *insights* precisos e sugerindo as melhores práticas de código, acelerando significativamente o processo de desenvolvimento.
 
 ## 🛠️ Tecnologias Utilizadas
 
