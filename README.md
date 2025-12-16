@@ -6,6 +6,19 @@ O **Book Logger** é uma aplicação backend construída com **Spring Boot** e *
 
 Este projeto demonstra uma arquitetura sólida em camadas (MVC, Service, Repository) e utiliza um sistema de interface de linha de comando (`CommandLineRunner`) para interação e testes diretos no console, provando a robustez da lógica de negócios.
 
+## 🧠 A Jornada de Aprendizado e o Papel da IA
+
+A construção deste projeto foi extremamente gratificante, servindo como um marco crucial no meu desenvolvimento em Java e Spring Boot.
+
+Os principais aprendizados incluíram:
+
+* **Arquitetura em Camadas:** Reforço na implementação correta do padrão Service/Repository/Model.
+* **Mapeamento JPA:** Consolidação do entendimento sobre o relacionamento **One-to-Many** entre Livro e Ensinamento.
+* **Injeção de Dependência:** Solução de diversos erros de `UnsatisfiedDependencyException` e domínio sobre a criação de Beans personalizados (`Scanner`).
+* **Desenvolvimento CLI (Console):** Implementação de um menu interativo com `CommandLineRunner` para simular as interações do usuário.
+
+Vale ressaltar que a complexidade de resolver problemas específicos de dependência e *parsing* foi gerenciada com o auxílio do **Gemini do Google**, que atuou como um mentor técnico, fornecendo *insights* precisos sobre *stack traces* e sugerindo as melhores práticas de código, acelerando significativamente o processo de desenvolvimento e *debugging*.
+
 ## 🛠️ Tecnologias Utilizadas
 
 | Categoria | Tecnologia | Detalhes |
