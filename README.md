@@ -53,3 +53,10 @@ Este projeto foi configurado para rodar diretamente via terminal ou IDE (Intelli
 ### 💻 Interação no Console
 
 Após a inicialização do Spring Boot, um **menu interativo** será exibido no console, permitindo que você teste as funcionalidades de backend:
+
+## 📝 Funcionalidades Implementadas (Backend)
+
+* **CRUD Básico** (`Livro` e `Ensinamento`).
+* **Associação:** Mapeamento One-to-Many entre `Livro` e `Ensinamento` (JPA).
+* **Lógica de Negócios:** Salvamento e atualização de notas em `LivroService`.
+* **Upload de Arquivos:** Estrutura pronta para salvar arquivos de capa em disco (embora desativada no console).
